@@ -1,4 +1,5 @@
 # Continuous Integration Using Jenkins, Nexus, SonarQube, and Slack
+<img width="911" alt="Screen Shot 2025-01-22 at 6 09 34 PM" src="https://github.com/user-attachments/assets/c2b0925a-ee9b-43e4-896a-676a9808c14f" />
 
 ## Overview
 This project demonstrates the implementation of a Continuous Integration (CI) pipeline for a Java web application using Jenkins. The pipeline incorporates multiple tools to enhance software quality, facilitate automation, and enable seamless deployment processes.
